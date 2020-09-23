@@ -9,13 +9,13 @@ namespace pogodaTest.Data
          
             CREATE TABLE Towns
             (
-                TownId INT Primary KEY,
+                TownId INT AUTO_INCREMENT Primary KEY,
                 TownName VARCHAR(100) NOT NULL
             );
 
             CREATE TABLE Weathers
             (
-                WeatherId INT Primary KEY,
+                WeatherId INT AUTO_INCREMENT Primary KEY,
                 TownId INT NOT NULL,
                 Degree INT NOT NULL,
                 About VARCHAR(100) NOT NULL,
