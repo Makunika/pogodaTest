@@ -1,6 +1,6 @@
 # pogodaTest
 SQL Скрипт для развертывания
-'''SQL
+```SQL
 CREATE TABLE Towns
 (
     TownId INT Primary KEY,
@@ -16,4 +16,4 @@ CREATE TABLE Weathers
     WeatherDateTime DATETIME,
     CONSTRAINT tw_fk FOREIGN KEY (TownId) REFERENCES Towns(TownId)
 );
-'''
+```
