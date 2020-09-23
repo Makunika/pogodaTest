@@ -23,262 +23,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766dbb09-46e4-4d91-9556-959f4af8da73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.pogodaTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/pogodaTest/DesignTimeBuild/.dtbcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/pogodaTest/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/pogodaTest/v16/Server/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/pogodaTest/v16/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/FormMain.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/FormMain.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/WeatherDesktop.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/WeatherDesktop.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.designer.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WeatherDesktop.designer.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WinFormsApp1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WinFormsApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WinFormsApp1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/Debug/netcoreapp3.1/WinFormsApp1.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WeatherDesktop.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WeatherDesktop.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WeatherDesktop.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WeatherDesktop.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WinFormsApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WinFormsApp1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/WinFormsApp1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeatherDesktop/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/Controllers/TownsController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/Data/TownWeatherContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/Models/Town.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/Models/Weather.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/Modules/WeatherUpdate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/AngleSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/MySqlConnector.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/System.Text.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.designer.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.designer.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogodaTest/pogodaTest.csproj.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/Data/TownsSingelton.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/Models/Town.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/Models/Weather.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/Requests/GetTown.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/Service/TownWeatherService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/bin/Debug/netcoreapp3.1/weatherDesktopWPF.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/App.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/MainWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/MainWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/MainWindow.g.i.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.designer.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.designer.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.g.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF_MarkupCompile.i.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF_MarkupCompile.i.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/Debug/netcoreapp3.1/weatherDesktopWPF_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/weatherDesktopWPF.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/weatherDesktopWPF.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/obj/weatherDesktopWPF.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/weatherDesktopWPF.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weatherDesktopWPF/weatherDesktopWPF.csproj.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.pogodaTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pogodaTest/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.pogodaTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pogodaTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest.sln" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/bin/Debug/netcoreapp3.1/pogodaTest.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/Debug/netcoreapp3.1/pogodaTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/pogodaTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/pogodaTest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/pogodaTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/pogodaTest.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogodaTest/pogodaTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/pogodaTest/pogodaTest.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="766dbb09-46e4-4d91-9556-959f4af8da73" name="Default Changelist" comment="Готово?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -311,12 +56,12 @@
         <option value="$PROJECT_DIR$/weatherDesktopWPF/Data/TownsSingelton.cs" />
         <option value="$PROJECT_DIR$/weatherDesktopWPF/Requests/GetTown.cs" />
         <option value="$PROJECT_DIR$/weatherDesktopWPF/Service/TownWeatherService.cs" />
-        <option value="$PROJECT_DIR$/weatherDesktopWPF/MainWindow.xaml.cs" />
         <option value="$PROJECT_DIR$/pogodaTest/Modules/WeatherUpdate.cs" />
         <option value="$PROJECT_DIR$/pogodaTest/Controllers/TownsController.cs" />
         <option value="$PROJECT_DIR$/pogodaTest/Startup.cs" />
         <option value="$PROJECT_DIR$/pogodaTest/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/weatherDesktopWPF/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/weatherDesktopWPF/MainWindow.xaml.cs" />
       </list>
     </option>
   </component>
@@ -417,8 +162,16 @@
       <updated>1600854494192</updated>
       <workItem from="1600854545394" duration="13591000" />
       <workItem from="1600877067609" duration="5993000" />
-      <workItem from="1600900561837" duration="671000" />
+      <workItem from="1600900561837" duration="985000" />
     </task>
+    <task id="LOCAL-00001" summary="Готово?">
+      <created>1600901402069</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600901402069</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,28 +193,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Готово?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готово?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600878508620">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1600878508620" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1600901154211">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1600901295600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1600901154211" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1600901154210">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1600901295600" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1600901295600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1600901154210" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1600901154210">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1600901295600" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1600901295599">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1600901154210" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1600901154211">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1600901295599" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1600901295600">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1600901154211" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1600901295600" />
     <state width="1397" height="194" key="GridCell.Tab.1.bottom" timestamp="1600884323408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -538,6 +293,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1600854561409" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1600901414524">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1600901414524" />
     <state width="728" height="438" key="XDebugger.FullValuePopup" timestamp="1600863978022">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
