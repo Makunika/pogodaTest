@@ -32,7 +32,7 @@ namespace weatherDesktopWPF.Requests
         }
 
         /// <summary>
-        /// Отправет запрос погоды по городу
+        /// Отправет REST запрос погоды по городу
         /// </summary>
         /// <param name="town">Город</param>
         /// <returns></returns>
