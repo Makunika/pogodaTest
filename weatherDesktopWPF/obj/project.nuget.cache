@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DIRWG7EejAVEyLGLbJqkPgJ+eMj6YaGr2zBj4nreCs7Ox2Kp9AxTnwDBAHrKr2h+0BRT416cPdLgl7Q/dB+Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\weatherDesktopWPF\\weatherDesktopWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pshbl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

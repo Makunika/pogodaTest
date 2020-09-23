@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj": {}
+    "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj": {
+    "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj",
+        "projectUniqueName": "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj",
         "projectName": "pogodaTest",
-        "projectPath": "C:\\Users\\Max\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\RiderProjects\\pogodaTest\\pogodaTest\\obj\\",
+        "projectPath": "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\pogodaTest\\pogodaTest.csproj",
+        "packagesPath": "C:\\Users\\pshbl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pshbl\\RiderProjects\\pogodaTest\\pogodaTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\pshbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -37,6 +42,34 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "AngleSharp": {
+              "target": "Package",
+              "version": "[0.14.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
